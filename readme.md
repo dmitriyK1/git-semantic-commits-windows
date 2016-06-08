@@ -32,3 +32,8 @@ git style commit-message-here     -> git commit -m 'style: commit-message-here'
 git test commit-message-here      -> git commit -m 'test: commit-message-here'
 git localize commit-message-here  -> git commit -m 'localize: commit-message-here'
 ```
+
+###View help:
+```shell
+git semantic
+```
