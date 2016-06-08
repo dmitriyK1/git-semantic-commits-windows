@@ -1,9 +1,9 @@
-git config --global alias.chore !"C:/git-extensions/noQuotes-cmd/git-chore.cmd"
-git config --global alias.feat !"C:/git-extensions/noQuotes-cmd/git-feat.cmd"
-git config --global alias.docs !"C:/git-extensions/noQuotes-cmd/git-docs.cmd"
-git config --global alias.fix !"C:/git-extensions/noQuotes-cmd/git-fix.cmd"
-git config --global alias.refactor !"C:/git-extensions/noQuotes-cmd/git-refactor.cmd"
-git config --global alias.style !"C:/git-extensions/noQuotes-cmd/git-style.cmd"
-git config --global alias.test !"C:/git-extensions/noQuotes-cmd/git-test.cmd"
-git config --global alias.localize !"C:/git-extensions/noQuotes-cmd/git-localize.cmd"
-git config --global alias.semantic !"C:/git-extensions/git-semantic.cmd"
+git config --global alias.chore !"C:/git-extensions/noQuotes-cmd/git-chore.cmd" --replace-all
+git config --global alias.feat !"C:/git-extensions/noQuotes-cmd/git-feat.cmd" --replace-all
+git config --global alias.docs !"C:/git-extensions/noQuotes-cmd/git-docs.cmd" --replace-all
+git config --global alias.fix !"C:/git-extensions/noQuotes-cmd/git-fix.cmd" --replace-all
+git config --global alias.refactor !"C:/git-extensions/noQuotes-cmd/git-refactor.cmd" --replace-all
+git config --global alias.style !"C:/git-extensions/noQuotes-cmd/git-style.cmd" --replace-all
+git config --global alias.test !"C:/git-extensions/noQuotes-cmd/git-test.cmd" --replace-all
+git config --global alias.localize !"C:/git-extensions/noQuotes-cmd/git-localize.cmd" --replace-all
+git config --global alias.semantic !"C:/git-extensions/git-semantic.cmd" --replace-all
