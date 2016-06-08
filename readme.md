@@ -2,7 +2,7 @@
 Git semantic commits for Windows
 
 #Installation
-Copy git-extensions folder to drive c:\ and run register.cmd/register-noQuotes.cmd from git-extenstions folder
+Copy git-extensions folder to drive c:\ and run register.cmd OR register-noQuotes.cmd from git-extenstions folder
 
 # Usage
 There are 8 new Git commands now.
