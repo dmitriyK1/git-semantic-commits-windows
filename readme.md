@@ -10,6 +10,7 @@ There are 8 new Git commands now.
 ##New command -> what it does:
 
 ###Version with quotes enabled:
+```shell
 git feat "commit-message-here"     -> git commit -m 'feat: commit-message-here'
 git docs "commit-message-here"     -> git commit -m 'docs: commit-message-here'
 git chore "commit-message-here"    -> git commit -m 'chore: commit-message-here'
@@ -18,8 +19,10 @@ git refactor "commit-message-here" -> git commit -m 'refactor: commit-message-he
 git style "commit-message-here"    -> git commit -m 'style: commit-message-here'
 git test "commit-message-here"     -> git commit -m 'test: commit-message-here'
 git localize "commit-message-here" -> git commit -m 'localize: commit-message-here'
+```
 
 ###Version without quotes:
+```shell
 git feat commit-message-here      -> git commit -m 'feat: commit-message-here'
 git docs commit-message-here      -> git commit -m 'docs: commit-message-here'
 git chore commit-message-here     -> git commit -m 'chore: commit-message-here'
@@ -28,3 +31,4 @@ git refactor commit-message-here  -> git commit -m 'refactor: commit-message-her
 git style commit-message-here     -> git commit -m 'style: commit-message-here'
 git test commit-message-here      -> git commit -m 'test: commit-message-here'
 git localize commit-message-here  -> git commit -m 'localize: commit-message-here'
+```
