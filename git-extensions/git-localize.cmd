@@ -1,2 +1,7 @@
 @echo off
-git commit -m "localize: %~1"
+
+if "%~2" == "" (
+    git commit -m "localize: %~1"
+) else (
+    git commit -m "localize(%~1): %~2"
+)
